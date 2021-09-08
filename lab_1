@@ -1,0 +1,7 @@
+1)	
+A. Write matlab code to display following binary images
+      	Square, Triangle, Circle
+ B. Write matlab code to perform following operations on images
+ Flip Image along horizontal and vertical direction, 
+Enhance quality of a given image by changing brightness of image, 
+Image negation operation, Change contrast of a given  Image.
